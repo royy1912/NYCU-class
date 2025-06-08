@@ -1,0 +1,3 @@
+Thread 0 is starting
+Thread 0 is starting
+Thread 0 is starting
