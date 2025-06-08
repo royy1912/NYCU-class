@@ -1,0 +1,1 @@
+cmd_/home/Roy/os_lab3/kfetch_mod.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/Roy/os_lab3/kfetch_mod.ko /home/Roy/os_lab3/kfetch_mod.o /home/Roy/os_lab3/kfetch_mod.mod.o;  true
